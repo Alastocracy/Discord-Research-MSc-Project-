@@ -1,1 +1,1 @@
-# Discord-Privacy-Safety-and-Security
+Discord Research (MSc Project)
