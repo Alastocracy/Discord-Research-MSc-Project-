@@ -14,11 +14,11 @@ Another research method that was considered was a focus group of around 10 Disco
 
 The last method considered for this research was a survey, a list of questions that could easily be completed in a relatively small amount of time. The largest upside of a survey is ease of access, as it is trivial to create one and distribute it online, and this is important as ever during the global pandemic. This allows a much greater reach when desiring a mass of responses to gather data to draw conclusions from. Asking participants to spend 5-10 minutes filling out a survey should be easier than them having to set out time to dedicate to conducting an interview or focus group.  With that being said, it is hard to tell what the response rate will be to a survey and how many participants you will have can be difficult to estimate. However, it is possible to mitigate this by trying to keep the time taken to complete the survey low by having a concise list of questions. Another advantage of using surveys is the ability for the participants to remain anonymous, especially when it comes to more challenging issues. The big disadvantage of a survey compared to the other methods is that there isn’t an ability to ask any follow up questions after they’ve completed the survey, which could be useful when asking more open questions. One solution to this is to have an option to leave contact information for a potential follow up, but they may well not be interested in doing so.
 
-*Chosen Methodology*
+**Chosen Methodology**
 
 After considering all of the methods discussed, it was decided to use a survey to perform the research. This would allow the greatest potential reach in terms of participants as opposed to one of the other methods, in order to be able to draw more reliable conclusions from the trends in the data. The survey would consist primarily of closed questions in order to keep it short, but also have a few open questions to try and gain some extra insight and detail on specific subjects. Additionally, the degree of anonymity provided in a survey would hopefully allow participants to be more open about their experience on the platform and interaction with the different features. In case of anyone being affected by questions around harassment, a short list of resources was compiled to help them if they reached out. 
 
-*Development of Questions*
+**Development of Questions**
 
 A copy of the final survey can be found in the appendix of this report; in addition to the questions discussed below there was also a consent form at the start of the survey confirming that the participant was an adult and explaining that the survey was voluntary and how the data would be used. In total there are 25 questions in the survey and it should take users between 5 and 10 minutes to complete.
 
@@ -32,11 +32,11 @@ Then the survey looks at the user’s data on Discord, how they manage it and th
 
 The final two questions of the survey are more open ended, and look to gain information for potential future research or investigation. “What privacy, safety or security feature would you like to see added to Discord?” is intended to make the participant think more about the features available, what they think is missing, and what they think could be implemented better. For example, two-factor authentication makes your account much more secure but is quite troublesome for the user. The other open-ended question is “Is there anything you think that has been missed in this survey, relating to Discord Safety, Security and Privacy that you think is worth investigating?”. This question is self-explanatory and its purpose is to find what areas of investigation Discord users are most interested in. There was also a possibility with these questions to do follow-up interviews, as there is a space at the end for the participant to volunteer their email address if they desired. 
 
-*Pilot Testing*
+**Pilot Testing**
 
 Before sending the survey out to potential participants, pilot tests were done to ensure that the duration was as expected; that the questions flowed well from one to the next; and that the questions made sense to the participant. Through these it was decided to provide additional information for some of the terms used, as the participant may not necessarily be familiar. Additionally, questions were added afterwards to allow the participants to expand on previous answers which originally there was not opportunity for.
 
-*Distribution*
+**Distribution**
 
 The primary method for distributing the survey was through Discord itself using university society Discords, and academic channels in national university hub Discord servers such as that for the National University Esports League. Many of these Discords for students have areas for academic research, to share papers and surveys or find participants for other types of research. To increase the reach of the survey representatives from different University society Discords were also contacted and asked to pass the survey on to their members. The survey was also distributed through other smaller Discord communities, and finally to other MSc students at DeMontfort University via email.
 
