@@ -1,1 +1,1 @@
-Discord Research (MSc Project)
+Discord Privacy, Safety and Security
