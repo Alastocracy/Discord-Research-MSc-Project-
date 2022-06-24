@@ -4,4 +4,4 @@ A survey of Discord users was carried out to find out how they engaged with the 
 
 The main conclusions to be drawn from this research is that attention needs to be drawn to the importance of privacy, security and safety on the platform. Users need to be encouraged to interact and engage with the platforms built in privacy and safety features. To combat harassment on the platform server owners should establish a strict set of rules, and ensure they are enforced. Lastly perceptions need to be changed about how dangerous it is to post sensitive personal information about yourself on Discord, and if you do you need to manage it carefully and remove it when you leave. There are many dangers and threats to users on Discord, and users need to take these threats seriously and not simply rely on the platform to keep you safe.
 
-Keywords: Discord, Safety, Security, VoIP, Community
+*Keywords: Discord, Safety, Security, VoIP, Community*
